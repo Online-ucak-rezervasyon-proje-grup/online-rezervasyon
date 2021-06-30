@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kullanici_girisi", "kullanici_girisi\kullanici_girisi.csproj", "{F2CB324C-BFDD-4703-A7F1-D8758B77BDD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CB324C-BFDD-4703-A7F1-D8758B77BDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CB324C-BFDD-4703-A7F1-D8758B77BDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CB324C-BFDD-4703-A7F1-D8758B77BDD4}.Debug|x64.ActiveCfg = Debug|x64
+		{F2CB324C-BFDD-4703-A7F1-D8758B77BDD4}.Debug|x64.Build.0 = Debug|x64
+		{F2CB324C-BFDD-4703-A7F1-D8758B77BDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CB324C-BFDD-4703-A7F1-D8758B77BDD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CB324C-BFDD-4703-A7F1-D8758B77BDD4}.Release|x64.ActiveCfg = Release|x64
+		{F2CB324C-BFDD-4703-A7F1-D8758B77BDD4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1E8B078-2A81-4E84-8532-5E3E6E767F92}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\bin\x64\Debug\kullanici_girisi.exe.config
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\bin\x64\Debug\kullanici_girisi.exe
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\bin\x64\Debug\kullanici_girisi.pdb
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.csproj.AssemblyReference.cache
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.admin_giris.resources
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.Giris.resources
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.giris_panel.resources
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.Rezerv.resources
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.kayitol.resources
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.Properties.Resources.resources
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.csproj.GenerateResource.cache
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.csproj.CoreCompileInputs.cache
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.exe
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.pdb
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.Admin.resources
+C:\Users\Özgür Erciyas\Desktop\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.odeme_ekranı.resources
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\bin\x64\Debug\kullanici_girisi.exe.config
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\bin\x64\Debug\kullanici_girisi.exe
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\bin\x64\Debug\kullanici_girisi.pdb
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.csproj.AssemblyReference.cache
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.Admin.resources
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.admin_giris.resources
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.Giris.resources
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.giris_panel.resources
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.odeme_ekranı.resources
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.Rezerv.resources
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.kayitol.resources
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.Properties.Resources.resources
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.csproj.GenerateResource.cache
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.csproj.CoreCompileInputs.cache
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.exe
+C:\Users\Özgür Erciyas\Desktop\Yeni klasör (2)\kullanici_girisi\kullanici_girisi\obj\x64\Debug\kullanici_girisi.pdb
